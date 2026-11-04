@@ -8,7 +8,7 @@ I'm really sorry to say this, you have to get comfortable this fundamental symbo
   - +: Yang, Positive, Expansion
   - -: Yin, Negative, Shrinkage, Taking back
   - ✨: Saeng[sang]: Supporting, creating, faciliting
-  - ⚔️: Geuk[Guk]:  Containment, regulate, attacking force
+  - ⚔️: Geuk[gk, guk]:  Containment, regulate, attacking force
     
 - 10 heavenly stems:
   - 甲: +Wood, tree, expansion, beginning
