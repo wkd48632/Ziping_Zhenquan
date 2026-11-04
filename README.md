@@ -24,10 +24,10 @@ I'm really sorry to say this, you have to get comfortable this fundamental symbo
  
 - 12 earthly branches:
   - 子: Flourishing Water
-  - 丑: Dry Earth (confine steel in a warehouse)
+  - 丑: Wet Earth (confine steel in a warehouse)
   - 寅: Bursting Wood
   - 卯: Flourishing Wood
-  - 辰: Wet Earth (confine water in a warehouse)
+  - 辰: Dry Earth (confine water in a warehouse)
   - 巳: Bursting Fire
   - 午: Flourishing Fire
   - 未: Wet Earth (confine wood in a warehouse)
