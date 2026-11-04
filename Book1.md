@@ -27,13 +27,13 @@ We call it as 5-characteristics (Wu-xing)
   
 Then each characteristics also have Yin and Yang.  
   
-For example, the Big Wood is the spirit of the Small Wood,  
-And the Small Wood is the implementation of the Big Wood.  
+For example, the Big Wood is the antecedent condition of the Small Wood,  
+And the Small Wood is the consequent condition of the Big Wood.  
   
 Big wood germinate and expand beneath the surface of reality (invisible atmosphere).  
 Expanded spirit bursts and tears out the surface of reality and acts upon real-world-things. (real-world action of spirit).  
-And the Small wood takes the vigor and the spiritual energy from real-world-things. (the cosmic energy transformed by changes in reality).  
-*(Editor: And then it causes the Big fire)*
+And the Small Wood takes the vigor and the spiritual energy from real-world-things. (the cosmic energy transformed by changes in reality).  
+*(Editor: And then it causes the Big Fire)*
 
 ## About the Expansion, the Convergence, the Facilitation and the Containment
 ## About the birth and death of the Expansion and the Convergence
